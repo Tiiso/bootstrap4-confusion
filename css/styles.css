@@ -56,9 +56,8 @@ strong{
     padding: 0px;
 }
 
-.contain-card{
-    margin-left: auto;
-    margin-right: auto;
+.card{
+   margin-left: 300px;
 }
 .btn-sm{
 background-color: orange;
